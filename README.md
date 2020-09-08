@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+mas modificaciones
 
 modificacionessssssss
 
@@ -13,3 +14,4 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 ## depoloyment
+this is a description of the deployment, local or server
