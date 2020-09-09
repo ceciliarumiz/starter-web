@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 
 ## depoloyment
 this is a description of the deployment, local or server
+
+### Copyright
+GIt.training
