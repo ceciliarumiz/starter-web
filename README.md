@@ -12,6 +12,7 @@ modificacionessssssss
 Sample website with plenty of files for demos
 
 ## How to contribute
+please fork this repository and isssue pull request for review
 
 ## depoloyment
 this is a description of the deployment, local or server
